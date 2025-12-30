@@ -38,7 +38,7 @@ h5 {
     max-width: 900px;
 }
 
-.container img {
+.container .img {
     width: 250px;        
     height: auto;
 }
@@ -47,7 +47,7 @@ li {
     margin: 10px;
     padding: 10px
 }
-.container p {
+.container .p {
     font-size: 18px;
     line-height: 1.4;
 }
